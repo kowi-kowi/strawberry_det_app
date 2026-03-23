@@ -1,7 +1,7 @@
 # Strawberry Detection Mobile App (YOLOv8 + TFLite + Android)
 
 This project demonstrates an end-to-end computer vision pipeline for real-time strawberry detection.
-A YOLOv8 model was trained on a Kaggle dataset, optimized and converted to TensorFlow Lite, and deployed in an Android application for on-device inference using the phone camera.
+A YOLOv8 model was trained on a ![Kaggle dataset](https://www.kaggle.com/datasets/mahyeks/multi-class-strawberry-ripeness-detection-dataset), optimized and converted to TensorFlow Lite, and deployed in an Android application for on-device inference using the phone camera.
 
 
 ## Demo
